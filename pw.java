@@ -4,4 +4,9 @@ Class PW
     {
        /// code
     }
+public void ml()
+    {
+       /// code2
+    }
+
 }
